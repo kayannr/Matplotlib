@@ -1,6 +1,5 @@
 # Pymaceuticals
 
-![pyma](Images/Laboratory.jpg)
 
 ### Figure 1
 ![fig1](Images/drug_regimen.png)
