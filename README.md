@@ -11,7 +11,7 @@
 
 
 ### Figure 3
-![fig3](Images/capomulin.png)
+![fig3](Images/tumor_vol.png)
 
 ### Figure 4
 ![fig4](Images/tumor.png)
