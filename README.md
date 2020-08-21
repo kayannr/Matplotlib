@@ -10,12 +10,12 @@ This project focuses on affects of drugs on mice and tumors over time. The analy
 ![fig2](Images/gender.png)
 
 
-### Figure 3
+### Figure 3: Capomulin
 ![fig3](Images/tumor_vol.png)
 
 ### Figure 4: Top four drug regimen
 ![fig4](Images/tumor.png)
 
 
-### Figure 5
+### Figure 5: Survival Rates
 ![fig5](Images/survival.png)
