@@ -1,5 +1,6 @@
 # Pymaceuticals
-
+### Summary. 
+This project focuses on affects of drugs on mice and tumors over time. The analysis and visualizations were generated using Pandas and Matplotlib. The analysis reveals that there is a weak positive correlation between weight and tumor volume, which means the greater. 
 
 ### Figure 1
 ![fig1](Images/drug_regimen.png)
