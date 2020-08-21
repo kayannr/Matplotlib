@@ -13,8 +13,7 @@ This project focuses on affects of drugs on mice and tumors over time. The analy
 ### Figure 3
 ![fig3](Images/tumor_vol.png)
 
-### Figure 4
-Top four drug regimen
+### Figure 4: Top four drug regimen
 ![fig4](Images/tumor.png)
 
 
